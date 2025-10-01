@@ -70,5 +70,5 @@ I enjoy **building modern, responsive web applications**, **AI-powered projects*
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M2N3FqaTFyZGxqZmhiNDIwYXNnaWlva3h5cXpoNXV1ZXdlODNnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyw1j16Smdl3CDIj5z/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlhcTZxa2p5bzl3MGNmcnRnM2ltOXdzd2YwNDB3aWo4bDd5Nm9oYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tC3VfSnEGChR10ETKA/giphy.gif" width="200"/>
 </p>
