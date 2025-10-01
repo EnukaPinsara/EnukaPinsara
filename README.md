@@ -54,9 +54,10 @@ I enjoy **building modern, responsive web applications**, **AI-powered projects*
 ---
 
 ## 🎯 What I’m Working On
-- Improving **AI recommendation systems**  
-- Learning **Spring Boot & Microservices**  
-- Developing more **full-stack applications**  
+- Enhancing **AI & ML recommendation systems**  
+- Deepening knowledge in **Machine Learning, Deep Learning, and NLP**  
+- Developing more **full-stack applications** to integrate AI solutions  
+- Preparing for a career as an **AI Engineer**
 
 ---
 
